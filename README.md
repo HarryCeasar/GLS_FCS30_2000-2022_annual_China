@@ -15,8 +15,7 @@ Dataset
 - After I downloaded the data from the official website, I extracted all the tif raster data of China region using the school supercomputing platform, split all the sub-maps from 2000-2022 and merged them to get 23 annual tif files, and added the tif statistical data using arcgis.
 
 ## Assets
-- https://pan.baidu.com/s/1MVYg58vVLLjskHr0VwPK_g?pwd=exsk
-
+- https://pan.baidu.com/s/1OcFmWQxIHenZJoWfocNRVQ?pwd=hucz
 - Don't forget to star if it helps😊💕
 
 
